@@ -6,7 +6,7 @@
     <copyright>(c) 2024 Frank Willeke</copyright>
     <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
     <authorUrl>www.frankwilleke.de</authorUrl>
-    <version>1.1.5</version>
+    <version>1.1.6</version>
     <description>PLG_CONTENT_USERNAME_DESC</description>
     <files>
         <filename plugin="plg_content_username">plg_content_username.php</filename>

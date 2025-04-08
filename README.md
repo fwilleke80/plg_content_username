@@ -18,6 +18,8 @@ This will include the user's full name:
 {username_full}
 ```
 
+This also works in an articles title!
+
 ## License
 
 Published under GNU Public License 2 (see LICENSE.txt).
