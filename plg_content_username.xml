@@ -13,4 +13,13 @@
     </files>
     <folder>content</folder>
     <group>content</group>
+    <languages>
+        <language tag="en-GB">language/en-GB/en-GB.plg_content_username.ini</language>
+        <language tag="en-GB">language/en-GB/en-GB.plg_content_username.sys.ini</language>
+        <language tag="de-DE">language/de-DE/de-DE.plg_content_username.ini</language>
+        <language tag="de-DE">language/de-DE/de-DE.plg_content_username.sys.ini</language>
+    </languages>
+    <updateservers>
+        <server type="extension" name="Web Links Update Site">https://raw.githubusercontent.com/joomla-extensions/weblinks/master/manifest.xml</server>
+    </updateservers>
 </extension>
