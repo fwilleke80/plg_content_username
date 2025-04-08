@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="content" version="5.0" method="upgrade">
+    <name>PLG_CONTENT_USERNAME</name>
+    <author>Frank Willeke</author>
+    <creationDate>12. November 2024</creationDate>
+    <copyright>(c) 2024 Frank Willeke</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <authorUrl>www.frankwilleke.de</authorUrl>
+    <version>1.1.5</version>
+    <description>PLG_CONTENT_USERNAME_DESC</description>
+    <files>
+        <filename plugin="plg_content_username">plg_content_username.php</filename>
+    </files>
+    <folder>content</folder>
+    <group>content</group>
+</extension>
